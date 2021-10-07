@@ -1,2 +1,4 @@
 # MLG
-Road to LAB 
+Road to LAB: Math, Algorithms and Code. 
+
+
