@@ -1,5 +1,2 @@
-# MLG
-Road to LAB: Math, Algorithms and Code. 
-
-NB Viewer Jupyter: https://bit.ly/2Yrs3jY
-
+# Machine Learning Experience
+I'm Charles - ML Research Assistant BKAI, AI Developer GDSCxHUST, Founder Humans of HUST & Major in DSAI HUST.
